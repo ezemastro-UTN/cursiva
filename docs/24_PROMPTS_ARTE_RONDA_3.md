@@ -91,25 +91,25 @@ el orden en que se hacen.
 
 | Orden | ID | Archivo(s) en `art-source/` | Qué | Dónde se usa | Prioridad | Estado | Prompt |
 |---|---|---|---|---|---|---|---|
-| 1 | D38 | `pista pelo de gato v2.png` | Pelo de gato atigrado gris | deducción de las ovejas | **alta** | pendiente | usar el prompt de `docs/23` D38 |
-| 2 | D39 | `erizo con espinas v2.png` | El erizo con espinas, entero | erizo terminado | **alta** | pendiente | usar el prompt de `docs/23` D39 |
-| 3 | D40 | `pista escamas de pez v2.png` | Escamas, variación 1 | peces: `f2-agua2` | **alta** | pendiente | usar el prompt de `docs/23` D40 |
-| 4 | D42 | `pulpo mochila y cuidador lamina.png` | El Pulpito con mochila y el Pulpito cuidador, iguales a D6 | mapa, cierres, prólogo; **referencia de E1, E2 y E7** | **alta** (sube de media: la intro depende de él) | pendiente | usar el prompt de `docs/23` D42 |
-| 5 | D41 | `pulpo poses lamina v2.png` | El Pulpito señala, piensa y festeja, igual a D6 | entrada, deducción, rescate | media | pendiente | usar el prompt de `docs/23` D41 |
-| 6 | E1 | `pulpo cuidador poses lamina.png` | El cuidador empuja el carrito y bosteza | intro: tomas 3, 4 y 5 | **alta** | pendiente | §4, E1 |
-| 7 | E2 | `pulpo cuidador poses lamina 2.png` | El cuidador sorprendido, mira alrededor e invita | intro: tomas 7 y 8 | **alta** | pendiente | §4, E2 |
-| 8 | E3 | `intro dia fondo.png`, `intro dia medio.png`, `intro dia frente.png` | La plaza del zoológico de día, en tres capas | intro: tomas 1–5 y 7–8 | **alta** | pendiente | §4, E3 |
-| 9 | E4 | `intro reja lamina.png` | Las dos hojas de la reja de la entrada | intro: toma 6 | **alta** | pendiente | §4, E4 |
-| 10 | E5 | `intro noche fondo.png`, `intro noche medio.png`, `intro noche frente.png` | La misma plaza de noche, en tres capas | intro: tomas 5–6 | **alta** | pendiente | §4, E5 |
-| 11 | E6 | `intro cielo lamina.png` | Sol, luna, estrellas y nubes sueltos | intro: tomas 1, 5, 6, 7 | **alta** | pendiente | §4, E6 |
-| 12 | D43 | ocho `… 2 v2.png` / `… 3 v2.png` de huellas | Variaciones de huellas | pato, monos, noche, tortugas | media | pendiente | usar el prompt de `docs/23` D43 |
-| 13 | D44 | `fondo arena v3.png` | Arena a 2:1 | tortugas, víboras, prólogo | media | pendiente | usar el prompt de `docs/23` D44 |
-| 14 | D45 | `fondo noche zoo v3.png` | Noche del zoológico a 2:1 | noche | media | pendiente | usar el prompt de `docs/23` D45 |
-| 15 | D46 | `fondo recinto monos v3.png` | Recinto de los monos a 2:1 | prólogo: monos | media | pendiente | usar el prompt de `docs/23` D46 |
-| 16 | E7 | `pulpo cuidador con lupa lamina.png` | El cuidador encuentra la lupa | intro, parte B (nace el detective) | media | pendiente | §5, E7 |
-| 17 | E8 | `libreta tapa.png`, `libreta pagina.png` | La libreta del detective: tapa y página en blanco | etapa de letras | media | pendiente | §5, E8 |
-| 18 | E9 | `lapiz v2.png` | El lápiz que sigue al dedo en las letras | etapa de letras | media | pendiente | §5, E9 |
-| 19 | E10 | `sellos lamina.png` | Cuatro sellos del detective, uno por familia de letras | etapa de letras | media | pendiente | §5, E10 |
+| 1 | D38 | `pista pelo de gato v2.png` | Pelo de gato atigrado gris | deducción de las ovejas | **alta** | hecho | usar el prompt de `docs/23` D38 |
+| 2 | D39 | `erizo con espinas v2.png` | El erizo con espinas, entero | erizo terminado | **alta** | hecho | usar el prompt de `docs/23` D39 |
+| 3 | D40 | `pista escamas de pez v2.png` | Escamas, variación 1 | peces: `f2-agua2` | **alta** | hecho | usar el prompt de `docs/23` D40 |
+| 4 | D42 | `pulpo mochila y cuidador lamina.png` | El Pulpito con mochila y el Pulpito cuidador, iguales a D6 | mapa, cierres, prólogo; **referencia de E1, E2 y E7** | **alta** (sube de media: la intro depende de él) | hecho | usar el prompt de `docs/23` D42 |
+| 5 | D41 | `pulpo poses lamina v2.png` | El Pulpito señala, piensa y festeja, igual a D6 | entrada, deducción, rescate | media | hecho | usar el prompt de `docs/23` D41 |
+| 6 | E1 | `pulpo cuidador poses lamina.png` | El cuidador empuja el carrito y bosteza | intro: tomas 3, 4 y 5 | **alta** | hecho | §4, E1 |
+| 7 | E2 | `pulpo cuidador poses lamina 2.png` | El cuidador sorprendido, mira alrededor e invita | intro: tomas 7 y 8 | **alta** | hecho | §4, E2 |
+| 8 | E3 | `intro dia fondo.png`, `intro dia medio.png`, `intro dia frente.png` | La plaza del zoológico de día, en tres capas | intro: tomas 1–5 y 7–8 | **alta** | hecho | §4, E3 |
+| 9 | E4 | `intro reja lamina.png` | Las dos hojas de la reja de la entrada | intro: toma 6 | **alta** | hecho | §4, E4 |
+| 10 | E5 | `intro noche fondo.png`, `intro noche medio.png`, `intro noche frente.png` | La misma plaza de noche, en tres capas | intro: tomas 5–6 | **alta** | hecho | §4, E5 |
+| 11 | E6 | `intro cielo lamina.png` | Sol, luna, estrellas y nubes sueltos | intro: tomas 1, 5, 6, 7 | **alta** | hecho | §4, E6 |
+| 12 | D43 | ocho `… 2 v2.png` / `… 3 v2.png` de huellas | Variaciones de huellas | pato, monos, noche, tortugas | media | hecho | usar el prompt de `docs/23` D43 |
+| 13 | D44 | `fondo arena v3.png` | Arena a 2:1 | tortugas, víboras, prólogo | media | hecho | usar el prompt de `docs/23` D44 |
+| 14 | D45 | `fondo noche zoo v3.png` | Noche del zoológico a 2:1 | noche | media | hecho | usar el prompt de `docs/23` D45 |
+| 15 | D46 | `fondo recinto monos v3.png` | Recinto de los monos a 2:1 | prólogo: monos | media | hecho | usar el prompt de `docs/23` D46 |
+| 16 | E7 | `pulpo cuidador con lupa lamina.png` | El cuidador encuentra la lupa | intro, parte B (nace el detective) | media | hecho | §5, E7 |
+| 17 | E8 | `libreta tapa.png`, `libreta pagina.png` | La libreta del detective: tapa y página en blanco | etapa de letras | media | hecho | §5, E8 |
+| 18 | E9 | `lapiz v2.png` | El lápiz que sigue al dedo en las letras | etapa de letras | media | hecho | §5, E9 |
+| 19 | E10 | `sellos lamina.png` | Cuatro sellos del detective, uno por familia de letras | etapa de letras | media | hecho | §5, E10 |
 | 20 | E11 | `cerca palos cruzados lamina.png` | Las piezas de la cerca de palos cruzados (`+` y `X`) | llamas (`docs/25` 3.2) | media | en espera: solo si la autora aprueba `docs/25` 3.2 | §5, E11 |
 | 21 | E12 | `lamina para imprimir.png` | El Pulpito y cuatro animales en línea negra, para pintar | hojas para imprimir (`docs/25` 5.2) | baja | en espera: solo si la autora aprueba `docs/25` 5.2 | §6, E12 |
 

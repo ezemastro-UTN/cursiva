@@ -117,7 +117,7 @@ ChatGPT: cambiar solo la columna "Estado" (ver §0, punto 9).
 | D35 | `lupa transicion.png` | La lupa grande de la transición | entre pantallas | baja | hecho; integrado en T49 (mango hacia abajo, no a 45°) | — |
 | D36 | `botones lamina.png` | Los ocho botones | todas las pantallas | baja | en el juego (T50): `ui-button-*` en volver, ver de nuevo, cerrar y sonido; siguiente, repetir y libreta quedan listos sin un botón que los use | — |
 | D37 | `escritorio v2.png` | El escritorio de la oficina | inicio | baja | en el juego (T50): `home-desk` (ninguna pantalla lo muestra hoy) | `escritorio.png` |
-| D38 | `pista pelo de gato v2.png` | Mechón de pelo de gato atigrado gris y blanco (rehace D1) | deducción de las ovejas | **alta** | pendiente | D1 (`pista pelo de gato.png`) |
+| D38 | `pista pelo de gato v2.png` | Mechón de pelo de gato atigrado gris y blanco (rehace D1) | deducción de las ovejas | **alta** | hecho | D1 (`pista pelo de gato.png`) |
 
 Son **38 pedidos y 55 archivos** (D38, agregado en T48, rehace D1). Antes de D23 y D24 van C9 y C10 de `docs/22` (§0, punto 2).
 
@@ -2937,14 +2937,14 @@ ChatGPT: cambiar solo la columna "Estado" de esta tabla.
 
 | ID | Archivo(s) en `art-source/` | Qué | Dónde se usa | Prioridad | Estado | Reemplaza o rehace |
 |---|---|---|---|---|---|---|
-| D39 | `erizo con espinas v2.png` | El erizo parado con espinas, entero adentro del lienzo | erizo: el erizo terminado (`docs/20` B14, pose 1) | **alta** | pendiente | `erizo con espinas.png` (cortado por el borde derecho) |
-| D40 | `pista escamas de pez v2.png` | La variación 1 de las escamas, naranja y suelta | peces: `f2-agua2` | **alta** | pendiente | `pista escamas de pez.png` (D3, salió azul gris) |
-| D41 | `pulpo poses lamina v2.png` | El Pulpito señala, piensa y festeja, igual a D6 | entrada, deducción, rescate | media | pendiente | `pulpo poses lamina.png` (D7: ojos azules y capa) |
-| D42 | `pulpo mochila y cuidador lamina.png` | El Pulpito con mochila (igual a D6) y el Pulpito cuidador (mismo cuerpo, ropa de cuidador) | mapa y cierres; prólogo | media | pendiente | `pulpo mochila.png`, `pulpo cuidador.png` |
-| D43 | `pista huella de pato 2 v2.png`, `pista huella de pato 3 v2.png`, `pista mano de mono 2 v2.png`, `pista mano de mono 3 v2.png`, `pista huellita de erizo 2 v2.png`, `pista huellita de erizo 3 v2.png`, `pista huella de tortuga 2 v2.png`, `pista huella de tortuga 3 v2.png` | Las variaciones 2 y 3 de las cuatro huellas, distintas en la FORMA | pato, monos, noche, tortugas | media | pendiente | las " 2" y " 3" de D15, D17, D20 y D24 |
-| D44 | `fondo arena v3.png` | La arena a 2:1, en una sola composición | tortugas, víboras, prólogo | media | pendiente | `fondo arena v2.png` (D32, con costuras) |
-| D45 | `fondo noche zoo v3.png` | La noche del zoológico a 2:1, en una sola composición | noche (linterna) | media | pendiente | `fondo noche zoo v2.png` (D33, con costuras) |
-| D46 | `fondo recinto monos v3.png` | El recinto de los monos a 2:1, en una sola composición | prólogo: monos | media | pendiente | `fondo recinto monos v2.png` (D34, con costuras) |
+| D39 | `erizo con espinas v2.png` | El erizo parado con espinas, entero adentro del lienzo | erizo: el erizo terminado (`docs/20` B14, pose 1) | **alta** | hecho | `erizo con espinas.png` (cortado por el borde derecho) |
+| D40 | `pista escamas de pez v2.png` | La variación 1 de las escamas, naranja y suelta | peces: `f2-agua2` | **alta** | hecho | `pista escamas de pez.png` (D3, salió azul gris) |
+| D41 | `pulpo poses lamina v2.png` | El Pulpito señala, piensa y festeja, igual a D6 | entrada, deducción, rescate | media | hecho | `pulpo poses lamina.png` (D7: ojos azules y capa) |
+| D42 | `pulpo mochila y cuidador lamina.png` | El Pulpito con mochila (igual a D6) y el Pulpito cuidador (mismo cuerpo, ropa de cuidador) | mapa y cierres; prólogo | media | hecho | `pulpo mochila.png`, `pulpo cuidador.png` |
+| D43 | `pista huella de pato 2 v2.png`, `pista huella de pato 3 v2.png`, `pista mano de mono 2 v2.png`, `pista mano de mono 3 v2.png`, `pista huellita de erizo 2 v2.png`, `pista huellita de erizo 3 v2.png`, `pista huella de tortuga 2 v2.png`, `pista huella de tortuga 3 v2.png` | Las variaciones 2 y 3 de las cuatro huellas, distintas en la FORMA | pato, monos, noche, tortugas | media | hecho | las " 2" y " 3" de D15, D17, D20 y D24 |
+| D44 | `fondo arena v3.png` | La arena a 2:1, en una sola composición | tortugas, víboras, prólogo | media | hecho | `fondo arena v2.png` (D32, con costuras) |
+| D45 | `fondo noche zoo v3.png` | La noche del zoológico a 2:1, en una sola composición | noche (linterna) | media | hecho | `fondo noche zoo v2.png` (D33, con costuras) |
+| D46 | `fondo recinto monos v3.png` | El recinto de los monos a 2:1, en una sola composición | prólogo: monos | media | hecho | `fondo recinto monos v2.png` (D34, con costuras) |
 
 Son **8 pedidos y 15 archivos**. Ninguno pisa un archivo que exista: los
 viejos quedan en `art-source/` (§3.1).
